@@ -24,10 +24,13 @@
 Below are the screenshots of my practice:
 
 1. Directory Listing and Navigation:
+   
    ![Directory Listing](./images/1img.jpg)
 
-2. Directory Creation:
+3. Directory Creation:
+
    ![present working derectory](./images/2img.jpg)
 
-3. Nested Directories:
+4. Nested Directories:
+   
    ![Nested Directories](./images/3img.jpg)
