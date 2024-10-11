@@ -17,9 +17,11 @@ apt update && apt upgrade -y
 apt install nginx -y
 systemctl enable nginx
 systemctl start nginx
-
 Example: Automating server setup
-![image](./myimages/Day4task1.png)
+
+ask 1: View the content of a file and display line numbers.
+
+![image](./myimages/task1.png)
 
 ## 🐚 Task 2: What is `#!/bin/bash`? Can We Use `#!/bin/sh`?
 
@@ -43,7 +45,7 @@ The line `#!/bin/bash` is known as a **shebang**. It tells the system which inte
 #!/bin/bash
 echo "This script is using the Bash shell!"
 
-![image](./myimages/Day4task2.png)
+![imag](./myimages/Day4task2.png)
 
 ## ✍️ Task 3: Shell Script to Print a Message
 
@@ -55,7 +57,6 @@ In this task, we will create a simple shell script that prints a motivational me
 #!/bin/bash
 echo "I will complete #90DaysOfDevOps challenge!"
 
-![image](./myimages/Day4task3.png)
 
 ## 🖥️ Task 4: Shell Script for User Input and Arguments
 
@@ -79,9 +80,7 @@ echo "Hello, $userName! You have passed the following arguments:"
 echo "Argument 1: $arg1"
 echo "Argument 2: $arg2"
 
-![image](./myimages/Day4task4.png)
 
-![image](./myimages/Day4output.png)
 
 ## 🔄 Task 5: If-Else Statement in Shell Scripting
 
@@ -108,9 +107,9 @@ else
     echo "$num1 is equal to $num2"
 fi
 
-![image](./myimages/Day4task5.png)
 
-Check out my blog for more details: [My Blog](hhttps://chintamani1804.hashnode.dev/day-4-basic-linux-shell-scripting-for-devops-engineers)
+
+Check out my blog for more details: [My Blog](https://chintamani1804.hashnode.dev/day-4-basic-linux-shell-scripting-for-devops-engineers)
 
 
 

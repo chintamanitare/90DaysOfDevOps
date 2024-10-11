@@ -18,7 +18,7 @@ Task 4: Remove a directory and all its contents.
 
 Task 5: Create a `fruits.txt` file, add content (one fruit per line), and display the content.
 
-![image](.\myimages\task5.png)
+![image](./myimages/task5.png)
 
 Task 6: Add content in `devops.txt` (one in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava. Then, append "Pineapple" to the end of the file.
 
