@@ -19,10 +19,6 @@ systemctl enable nginx
 systemctl start nginx
 Example: Automating server setup
 
-ask 1: View the content of a file and display line numbers.
-
-![image](./myimages/task1.png)
-
 ## 🐚 Task 2: What is `#!/bin/bash`? Can We Use `#!/bin/sh`?
 
 The line `#!/bin/bash` is known as a **shebang**. It tells the system which interpreter to use to run the script. This line is essential for ensuring your script executes in the correct environment.
